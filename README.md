@@ -1,8 +1,8 @@
-🚀 OmniAd-Core
+🚀 KOL-Ad-Matrix
 
 The open-source infrastructure for AI-automated ad generation, cross-platform deployment, and seamless KOL (Key Opinion Leader) management.
 
-OmniAd-Core is designed to lower the technical barrier for digital marketing. It provides a standardized set of modules to automate the creation of advertising assets using AI, deploy them across multiple ad networks simultaneously, and manage KOL registration processes without the administrative headache.
+KOL-Ad-Matrix is designed to lower the technical barrier for digital marketing. It provides a standardized set of modules to automate the creation of advertising assets using AI, deploy them across multiple ad networks simultaneously, and manage KOL registration processes without the administrative headache.
 
 ✨ Key Features
 
@@ -16,13 +16,13 @@ OmniAd-Core is designed to lower the technical barrier for digital marketing. It
 
 📦 Installation (Beta)
 
-Currently, OmniAd-Core is in active development and transitioning to a fully public open-source model.
+Currently, KOL-Ad-Matrix is in active development and transitioning to a fully public open-source model.
 
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/OmniAd-Core.git](https://github.com/YOUR_USERNAME/OmniAd-Core.git)
+git clone [https://github.com/YOUR_USERNAME/KOL-Ad-Matrix.git](https://github.com/YOUR_USERNAME/KOL-Ad-Matrix.git)
 
 # Navigate to the directory
-cd OmniAd-Core
+cd KOL-Ad-Matrix
 
 # Install dependencies
 npm install
@@ -32,11 +32,11 @@ npm install
 
 The system is broken down into three main independent packages:
 
-@omniad/ai-generator: Interfaces with LLMs and image generation APIs.
+@kol-matrix/ai-generator: Interfaces with LLMs and image generation APIs.
 
-@omniad/deploy-engine: Manages OAuth tokens and cross-platform API requests.
+@kol-matrix/deploy-engine: Manages OAuth tokens and cross-platform API requests.
 
-@omniad/kol-portal: Handles the backend logic for influencer registration and tracking.
+@kol-matrix/kol-portal: Handles the backend logic for influencer registration and tracking.
 
 (Detailed documentation for each module is currently being migrated to our Wiki.)
 
