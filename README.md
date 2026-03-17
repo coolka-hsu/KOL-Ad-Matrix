@@ -19,7 +19,7 @@ KOL-Ad-Matrix is designed to lower the technical barrier for digital marketing. 
 Currently, KOL-Ad-Matrix is in active development and transitioning to a fully public open-source model.
 
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/KOL-Ad-Matrix.git](https://github.com/YOUR_USERNAME/KOL-Ad-Matrix.git)
+git clone [https://github.com/coolka-hsu/KOL-Ad-Matrix.git](https://github.com/coolka-hsu/KOL-Ad-Matrix.git)
 
 # Navigate to the directory
 cd KOL-Ad-Matrix
