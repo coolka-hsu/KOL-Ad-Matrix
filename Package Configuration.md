@@ -1,0 +1,38 @@
+{
+  "name": "kol-ad-matrix",
+  "version": "0.1.0-beta",
+  "description": "Open-source infrastructure for AI automated ad generation and KOL management.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/KOL-Ad-Matrix.git"
+  },
+  "keywords": [
+    "marketing",
+    "automation",
+    "ai",
+    "advertising",
+    "kol",
+    "influencer",
+    "oauth"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/KOL-Ad-Matrix/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/KOL-Ad-Matrix#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
